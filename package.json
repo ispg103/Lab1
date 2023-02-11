@@ -1,0 +1,26 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "laboratorio node",
+  "main": "script.js",
+  "scripts": {
+    "start": "script.js",
+    "ola": "ola.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ispg103/Lab1.git"
+  },
+  "author": "Isabella Palma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ispg103/Lab1/issues"
+  },
+  "homepage": "https://github.com/ispg103/Lab1#readme",
+  "dependencies": {
+    "random-words": "^1.2.1"
+  },
+  "devDependencies": {
+    "is-number": "^7.0.0"
+  }
+}
